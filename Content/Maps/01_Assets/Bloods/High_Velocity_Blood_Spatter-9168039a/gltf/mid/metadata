@@ -1,0 +1,117 @@
+{
+	"assetNamespace": "fab",
+	"listing":
+	{
+		"averageRating": 0,
+		"createdAt": "",
+		"description": "<p><strong>Texel density:</strong> 8192 px/m</p><p><strong>Scan Area:</strong> 1x1 m</p><p><strong>Maps:</strong> Basecolor Specular Roughness Gloss Opacity Cavity Normal</p>\n<p><span>Create high-quality 3D experiences and worlds with Quixel Megascans. Browse thousands of photorealistic assets and environments, including materials, 3D assets, plants, decals, and more available </span><a target=\"_blank\" href=\"https://www.fab.com/sellers/Quixel\" rel=\"noopener noreferrer nofollow\"><span><u>here</u></span></a><span> on Fab.</span></p><p></p><p><span>For any questions or support regarding Quixel content, please get in touch </span><a target=\"_blank\" href=\"https://support.fab.com/s/?ProductOrigin=1PC\" rel=\"noopener noreferrer nofollow\"><span><u>here</u></span></a><span>.</span></p>",
+		"isAiForbidden": true,
+		"isAiGenerated": false,
+		"lastUpdatedAt": "2025-01-01T10:40:04.347516Z",
+		"listingType": "decal",
+		"media": "https://media.fab.com/image_previews/gallery_images/4fd11b0c-731c-4389-a0dd-c0ba1236a792/939e922f-2a97-4ac1-9107-a24cd9a82c63.jpeg",
+		"publishedAt": "2024-10-12T21:58:22.488990Z",
+		"reviewCount": 0,
+		"thumbnail": "https://media.fab.com/image_previews/gallery_images/59aeafb2-ddca-487d-9652-65516c485c48/2cb9df5b-41c7-4f2a-b8fb-dd6599c656c9.jpeg",
+		"title": "High Velocity Blood Spatter",
+		"uid": "9168039a-e26c-4d30-b4a1-48e028bc4c48",
+		"updatedAt": "",
+		"user":
+		{
+			"coverImageUrl": "https://cdn1.epicgames.com/fab/seller/o-cbf5bbfdb340d6a839b5520cb31328/cover/67dbdb8f.jpg",
+			"profileImageUrl": "https://cdn1.epicgames.com/fab/seller/o-cbf5bbfdb340d6a839b5520cb31328/profile/39e5dabd.png",
+			"sellerName": "Quixel Megascans",
+			"uid": "45ea3429-f62c-4f17-aa15-5bb9dfcd0079"
+		},
+		"tags": [
+			{
+				"name": "Blood",
+				"slug": "blood",
+				"uid": "1b393276-dadb-4c1f-b863-bbb99e64833c"
+			},
+			{
+				"name": "Graphic",
+				"slug": "graphic",
+				"uid": "26b066f3-0e18-40c2-b649-c05f36504b45"
+			},
+			{
+				"name": "Stain",
+				"slug": "stain",
+				"uid": "4d3cc856-559e-417a-b6d1-dff74d381e71"
+			},
+			{
+				"name": "Splatter",
+				"slug": "splatter",
+				"uid": "c14de7dc-cca0-4384-9146-e6bd09b825e0"
+			},
+			{
+				"name": "Horror",
+				"slug": "horror",
+				"uid": "e2b772ec-e68e-400a-89da-4ed6863c2d08"
+			}
+		],
+		"category":
+		{
+			"name": "Blood",
+			"path": "damage-grunge/blood",
+			"slug": "damage-grunge--blood",
+			"uid": "89464c1b-7cb1-4818-8209-8625e1427adb"
+		},
+		"assetFormats": [
+			{
+				"assetFormatType":
+				{
+					"name": "Texture Set",
+					"groupName": "Material Formats",
+					"code": "texture-set",
+					"icon": "cube",
+					"extensions": [
+						"zip"
+					]
+				}
+			},
+			{
+				"assetFormatType":
+				{
+					"name": "GLTF",
+					"groupName": "3D Exchange Formats",
+					"code": "gltf",
+					"icon": "cube",
+					"extensions": [
+						"gltf"
+					]
+				}
+			},
+			{
+				"assetFormatType":
+				{
+					"name": "Additional files",
+					"groupName": "Other Formats",
+					"code": "additional-files",
+					"icon": "file",
+					"extensions": [
+						"zip"
+					]
+				}
+			}
+		],
+		"_PluginMetas":
+		{
+			"apiDataVersion": "0.0.1",
+			"entitlementUid": "",
+			"cacheSize": 0,
+			"downloaded": []
+		}
+	},
+	"target": "UE_5.5",
+	"quality": "mid",
+	"format": "gltf",
+	"fileId": "67c8b8bc-a76b-45b5-b57f-fb14331386fd",
+	"platformIncluded": "",
+	"distributionPointBaseUrls": [],
+	"distributionMethod": "",
+	"entitlementUid": "",
+	"invertedNormal": false,
+	"isConverted": false,
+	"isQuixel": true
+}
